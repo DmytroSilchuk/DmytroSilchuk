@@ -10,6 +10,7 @@ Audit first, tools second.
 [![Portfolio](https://img.shields.io/badge/Portfolio-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://glamorous-plume-2bc.notion.site/AI-Automator-Portfolio-Dmytro-Silchuk-3ba7d0aa93fd81e49f8ff1a566f046db)
 [![Workflows](https://img.shields.io/badge/n8n%20workflows-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DmytroSilchuk/ai-automation-portfolio)
 [![Telegram](https://img.shields.io/badge/Telegram-@silchuk__d-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/silchuk_d)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dmytro%20Silchuk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%BE-%D1%81%D1%96%D0%BB%D1%8C%D1%87%D1%83%D0%BA-a35b58220/)
 
 </div>
 
@@ -58,7 +59,7 @@ So I don't sell trendy «AI implementations». I look at your business as if it 
 
 Що будую: AI-агент, який дзвонить ліду за 2 хвилини · чатбот-кваліфікатор лідів 24/7 · маршрутизація звернень з SLA · email-підтримка на автопілоті · аналітика продажів для CEO.
 
-👉 [Workflow на GitHub](https://github.com/DmytroSilchuk/ai-automation-portfolio/blob/main/README.uk.md) · [Портфоліо в Notion](https://glamorous-plume-2bc.notion.site/AI-Automator-Portfolio-Dmytro-Silchuk-3ba7d0aa93fd81e49f8ff1a566f046db) · [Telegram](https://t.me/silchuk_d)
+👉 [Workflow на GitHub](https://github.com/DmytroSilchuk/ai-automation-portfolio/blob/main/README.uk.md) · [Портфоліо в Notion](https://glamorous-plume-2bc.notion.site/AI-Automator-Portfolio-Dmytro-Silchuk-3ba7d0aa93fd81e49f8ff1a566f046db) · [Telegram](https://t.me/silchuk_d) · [LinkedIn](https://www.linkedin.com/in/%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%BE-%D1%81%D1%96%D0%BB%D1%8C%D1%87%D1%83%D0%BA-a35b58220/)
 
 </details>
 
